@@ -14,7 +14,7 @@
   "uninstallConfirmMessage": "Do you really want to uninstall this extension? Doing so will also remove the client.",
   "repository": "https://github.com/auth0-extensions/auth0-deploy-cli-extension",
   "keywords": [
-    "auth0",
+    "<S>auth0",
     "extension",
     "deploy",
     "cli"
